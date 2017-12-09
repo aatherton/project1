@@ -1,0 +1,13 @@
+What are three conclusions we can make about Kickstarter campaigns given the provided data?
+	1) successes are the most common result
+	2) canceled campaigns are the least common result
+	3) Theater is the most common super-category
+
+
+What are some of the limitations of this dataset?
+
+	I have no idea. seems pretty nuetral to me.
+
+What are some other possible tables/graphs that we could create?
+	porportion of successful/live to failed/canceled per category/sub-category
+	amount raised to category/sub-category
